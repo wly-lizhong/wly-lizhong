@@ -7,18 +7,35 @@
 - 🏆 国家级奖项 19 项 · EI 会议论文 2 篇 · 软件著作权 7 项
 - 📫 联系我：**2014626566@qq.com**
 
-## 精选项目
+## 简历项目 ↔ 代码仓对照
 
-| 仓库 | 一句话 | 技术 | 类型 |
-|---|---|---|---|
-| [clinical-ai-agent-platform](https://github.com/wly-lizhong/clinical-ai-agent-platform) | 临床试验 AI 智能体平台：智能审核 / RAG 问答 / SDV 核查 / 文档脱敏 / 智能客服 | LLM · RAG · FastAPI | 📄 Showcase |
-| [yiwang-memory-assistant](https://github.com/wly-lizhong/yiwang-memory-assistant) | 忆望记忆辅助：医嘱 → 结构化服药计划 API + 药片计数 | FastAPI · 通义千问 · 豆包视觉 | 💻 代码 |
-| [medical-rag](https://github.com/wly-lizhong/medical-rag) | 医疗 RAG 全链路：语料构建 → 向量索引 → 检索问答服务 | Qdrant · FAISS · BGE / m3e | 💻 代码 |
-| [onnx-deploy-playground](https://github.com/wly-lizhong/onnx-deploy-playground) | 模型部署实践：导出 → 精度对齐 → 延迟基准 → PTQ 量化 | PyTorch · ONNX Runtime | 💻 代码 |
-| [heart-disease-decision-support](https://github.com/wly-lizhong/heart-disease-decision-support) | 知识图谱 + 检索 + LLM 的心脏病辅助决策应用 | Streamlit · networkx · pyvis | 💻 代码 |
-| [kaiwu-rl-target-dqn](https://github.com/wly-lizhong/kaiwu-rl-target-dqn) | 腾讯开悟强化学习竞赛：奖励函数三轮迭代设计 | target-DQN · PyTorch | 💻 代码 |
+### 🏥 临床试验 AI 智能体平台（企业实习 · 简历主项目）
 
-> 企业项目（临床试验平台）代码归属公司不开源，Showcase 仓内有架构图与个人职责说明；其余仓库均为可运行的原创代码。
+平台整体介绍见 [clinical-ai-agent-platform](https://github.com/wly-lizhong/clinical-ai-agent-platform)（公司项目代码不开源，该仓为架构图 + 职责说明）。**简历上的每个能力点，都有我写的可运行同类实现**：
+
+| 简历上的能力 | 可运行代码 | 说明 |
+|---|---|---|
+| **自动打码脱敏**（正则+LLM 双通道，召回优先） | [pii-masking-pipeline](https://github.com/wly-lizhong/pii-masking-pipeline) | 中文敏感信息脱敏通用实现：双通道识别 + 区间合并 + P/R 评测 |
+| **知识库问答**（1000+ 文档 RAG，引用溯源控幻觉） | [medical-rag](https://github.com/wly-lizhong/medical-rag) | 语料构建 → 向量索引 → 多租户检索问答全链路 |
+| **智能客服**（意图识别 + 结构化输出保障机制） | [service-desk-agent](https://github.com/wly-lizhong/service-desk-agent) | 意图识别 + FAQ 检索 + JSON Schema 校验失败自动重试/降级 |
+| **智能审核 / SDV 源数据核查** | [clinical-ai-agent-platform](https://github.com/wly-lizhong/clinical-ai-agent-platform) | 涉公司专家规则与业务流程，仅 Showcase 说明 |
+
+### 🧓 忆望 · 记忆辅助软件（商用落地，服务 100+ 老人）
+
+[yiwang-memory-assistant](https://github.com/wly-lizhong/yiwang-memory-assistant) — 医嘱文本 → 结构化服药计划 FastAPI 服务 + 视觉大模型药片计数（真代码，可直接跑）
+
+### 🚀 模型部署
+
+[onnx-deploy-playground](https://github.com/wly-lizhong/onnx-deploy-playground) — PyTorch → ONNX 导出 / 精度对齐 / 延迟基准 / PTQ 量化，README 所有数字均为实测
+
+### 🎓 更多项目
+
+| 仓库 | 一句话 |
+|---|---|
+| [heart-disease-decision-support](https://github.com/wly-lizhong/heart-disease-decision-support) | 知识图谱 + 检索 + LLM 的心脏病辅助决策应用（带界面截图） |
+| [kaiwu-rl-target-dqn](https://github.com/wly-lizhong/kaiwu-rl-target-dqn) | 腾讯开悟强化学习竞赛 target-DQN，奖励函数三轮迭代设计 |
+
+> 简历中的毛囊显微检测（TPH-YOLO）、无人机检测、语音等项目属企业/竞赛资产，无公开代码，面试时可展示架构与技术细节。
 
 ## 技能
 
@@ -32,4 +49,3 @@
 ## 我在找什么
 
 2026 届校招 / 实习转正机会：**AI 应用工程师 / 算法工程师**（医疗 AI、大模型应用方向尤佳），坐标不限，即时到岗。
-
