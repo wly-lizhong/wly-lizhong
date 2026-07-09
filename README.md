@@ -28,10 +28,16 @@
 
 [onnx-deploy-playground](https://github.com/wly-lizhong/onnx-deploy-playground) — PyTorch → ONNX 导出 / 精度对齐 / 延迟基准 / PTQ 量化，README 所有数字均为实测
 
+### 🎮 LLM Agent 综合实践
+
+[sidu-chishui-wargame](https://github.com/wly-lizhong/sidu-chishui-wargame) — 《四渡赤水·统帅席》2.5D 军事沙盘网页游戏：LLM 将领 Agent 会回电、建议、争论、抗命，**规则引擎是唯一裁判、LLM 只输出 JSON 意图**；append-only 事件流可确定性重放；mock 模式零 key 完整运行（FastAPI / Celery / PostgreSQL + React / PixiJS，40+ 测试文件、18 篇设计文档）
+
 ### 🎓 更多项目
 
 | 仓库 | 一句话 |
 |---|---|
+| [ai-avatar-video-pipeline](https://github.com/wly-lizhong/ai-avatar-video-pipeline) | AI 数字人口播视频生产管线：声音克隆 TTS → 换口型/数字人驱动 → FFmpeg 去 AI 感（6 家云服务插拔编排） |
+| [green-charity-h5](https://github.com/wly-lizhong/green-charity-h5) | 手写 React 移动端 H5：无限无缝轮播 + 无限滚动/懒加载全原生实现（不套任何组件库） |
 | [heart-disease-decision-support](https://github.com/wly-lizhong/heart-disease-decision-support) | 知识图谱 + 检索 + LLM 的心脏病辅助决策应用（带界面截图） |
 | [kaiwu-rl-target-dqn](https://github.com/wly-lizhong/kaiwu-rl-target-dqn) | 腾讯开悟强化学习竞赛 target-DQN，奖励函数三轮迭代设计 |
 
