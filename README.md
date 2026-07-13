@@ -104,7 +104,7 @@
 <td align="center" width="25%"><img src="honors/jingkaibei-p1.jpg" height="150"><br><sub><b>省级一等奖</b><br>经开杯全国大学生创新创业大赛</sub></td>
 <td align="center" width="25%"><img src="honors/ai-intl-p2.jpg" height="150"><br><sub><b>省级二等奖</b><br>国际人工智能大赛</sub></td>
 <td align="center" width="25%"><img src="honors/sc-smart-med.jpg" height="150"><br><sub><b>四川省智能医学创新设计大赛</b></sub></td>
-<td align="center" width="25%"><img src="honors/comprehensive-a.jpg" height="150"><br><sub><b>四川省综合素质 A 级证书</b></sub></td>
+<td align="center" width="25%"><img src="honors/ai-trainer-cert.jpg" height="150"><br><sub><b>人工智能训练师</b><br>职业技能等级证书 · 四川省人社</sub></td>
 </tr>
 </table>
 
@@ -197,9 +197,15 @@
 <table>
 <tr>
 <td align="center" width="25%"><img src="honors/ai-engineer-cert.jpg" height="115"><br><sub>人工智能应用工程师（高级）</sub></td>
+<td align="center" width="25%"><img src="honors/ai-trainer-cert.jpg" height="115"><br><sub>人工智能训练师（四级/中级工）</sub></td>
 <td align="center" width="25%"><img src="honors/huawei-euler.jpg" height="115"><br><sub>华为云开发者认证 HCCDA</sub></td>
 <td align="center" width="25%"><img src="honors/huawei-appdev.jpg" height="115"><br><sub>华为应用开发者认证</sub></td>
+</tr>
+<tr>
 <td align="center" width="25%"><img src="honors/mandarin.jpg" height="115"><br><sub>普通话水平测试</sub></td>
+<td align="center" width="25%"></td>
+<td align="center" width="25%"></td>
+<td align="center" width="25%"></td>
 </tr>
 </table>
 
