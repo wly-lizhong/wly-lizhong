@@ -4,7 +4,7 @@
 
 - 🎓 成都东软学院 · 人工智能专业 · 2026 届（专业排名前 5%）
 - 🏥 三年聚焦医疗 AI 一条主线：临床试验智能化（企业实习）→ 记忆辅助产品（落地服务 100+ 老人）→ 医疗影像与检测
-- 🏆 国家级奖项 19 项 · EI 会议论文 2 篇 · 软件著作权 7 项 · 华为云开发者认证
+- 🏆 国家级奖项 19 项 · EI 会议论文 2 篇 · 软件著作权 7 项 · 人工智能应用工程师（高级）/ 华为云开发者认证
 - 📫 联系我：**2014626566@qq.com**
 
 ---
@@ -83,28 +83,31 @@
 
 ---
 
-## 🏆 荣誉墙 · 代表性奖项
+## 🏆 荣誉墙 · 代表性成果
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="honors/sw-adni.jpg" height="150"><br><sub><b>软件著作权</b><br>基于 ADNI 和 3D-CNN 的 AD 智能诊断系统</sub></td>
-<td align="center" width="33%"><img src="honors/paper-ei.jpg" height="150"><br><sub><b>EI 会议论文录用</b><br>ICCTDA 2025 · AI 智能工程系统</sub></td>
-<td align="center" width="33%"><img src="honors/huawei-euler.jpg" height="150"><br><sub><b>华为云开发者认证</b><br>HCCDA · Huawei Cloud EulerOS</sub></td>
+<td align="center" width="25%"><img src="honors/sw-adni.jpg" height="150"><br><sub><b>软件著作权</b><br>基于 ADNI 和 3D-CNN 的 AD 智能诊断系统</sub></td>
+<td align="center" width="25%"><img src="honors/paper-ei.jpg" height="150"><br><sub><b>EI 会议论文录用</b><br>ICCTDA 2025</sub></td>
+<td align="center" width="25%"><img src="honors/ai-engineer-cert.jpg" height="150"><br><sub><b>人工智能应用工程师（高级）</b><br>工信部教育与考试中心</sub></td>
+<td align="center" width="25%"><img src="honors/huawei-euler.jpg" height="150"><br><sub><b>华为云开发者认证</b><br>HCCDA · EulerOS</sub></td>
 </tr>
 <tr>
-<td align="center" width="33%"><img src="honors/jingkaibei-p1.jpg" height="150"><br><sub><b>省级一等奖</b><br>经开杯全国大学生创新创业大赛</sub></td>
-<td align="center" width="33%"><img src="honors/robot-n2.jpg" height="150"><br><sub><b>全国二等奖</b><br>中国机器人及人工智能大赛 · AI 创新赛</sub></td>
-<td align="center" width="33%"><img src="honors/challenge-p3.jpg" height="150"><br><sub><b>省级奖项</b><br>“挑战杯”大学生创业计划竞赛</sub></td>
+<td align="center" width="25%"><img src="honors/kepu-national.jpg" height="150"><br><sub><b>全国总决赛三等奖</b><br>全国青年科普创新大赛 · 多 Agent 深度强化学习</sub></td>
+<td align="center" width="25%"><img src="honors/robot-n2.jpg" height="150"><br><sub><b>全国二等奖</b><br>中国机器人及人工智能大赛 · AI 创新赛</sub></td>
+<td align="center" width="25%"><img src="honors/national-scholarship.jpg" height="150"><br><sub><b>筑梦奖学金</b><br>中国教育发展基金会</sub></td>
+<td align="center" width="25%"><img src="honors/scholarship.jpg" height="150"><br><sub><b>国家励志奖学金</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="33%"><img src="honors/sc-smart-med.jpg" height="150"><br><sub><b>四川省智能医学创新设计大赛</b></sub></td>
-<td align="center" width="33%"><img src="honors/ai-intl-p2.jpg" height="150"><br><sub><b>省级二等奖</b><br>国际人工智能大赛</sub></td>
-<td align="center" width="33%"><img src="honors/lanqiaobei.jpg" height="150"><br><sub><b>蓝桥杯</b> 全国软件和信息技术专业人才大赛</sub></td>
+<td align="center" width="25%"><img src="honors/jingkaibei-p1.jpg" height="150"><br><sub><b>省级一等奖</b><br>经开杯全国大学生创新创业大赛</sub></td>
+<td align="center" width="25%"><img src="honors/ai-intl-p2.jpg" height="150"><br><sub><b>省级二等奖</b><br>国际人工智能大赛</sub></td>
+<td align="center" width="25%"><img src="honors/sc-smart-med.jpg" height="150"><br><sub><b>四川省智能医学创新设计大赛</b></sub></td>
+<td align="center" width="25%"><img src="honors/comprehensive-a.jpg" height="150"><br><sub><b>四川省综合素质 A 级证书</b></sub></td>
 </tr>
 </table>
 
 <details>
-<summary><b>📜 展开查看全部证书（软著 / 论文 / 竞赛 / 认证共 50+ 项）</b></summary>
+<summary><b>📜 展开查看全部证书（软著 / 论文 / 竞赛 / 认证 / 奖学金共 50+ 项）</b></summary>
 
 ### 学术成果 · 软件著作权 + 论文
 
@@ -123,32 +126,43 @@
 </tr>
 </table>
 
+### 奖学金 · 综合荣誉
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="honors/national-scholarship.jpg" height="120"><br><sub>筑梦奖学金（教育部基金会）</sub></td>
+<td align="center" width="25%"><img src="honors/scholarship.jpg" height="120"><br><sub>国家励志奖学金</sub></td>
+<td align="center" width="25%"><img src="honors/comprehensive-a.jpg" height="120"><br><sub>四川省综合素质 A 级证书</sub></td>
+<td align="center" width="25%"><img src="honors/project-final.jpg" height="120"><br><sub>大学生创新创业项目结项</sub></td>
+</tr>
+</table>
+
 ### 科技 · 创新 · AI 竞赛
 
 <table>
 <tr>
 <td align="center" width="25%"><img src="honors/jingkaibei-p1.jpg" height="115"><br><sub>经开杯双创·省一等奖</sub></td>
-<td align="center" width="25%"><img src="honors/challenge-p3.jpg" height="115"><br><sub>挑战杯·省级</sub></td>
-<td align="center" width="25%"><img src="honors/challenge-s1.jpg" height="115"><br><sub>挑战杯·校级一等奖</sub></td>
-<td align="center" width="25%"><img src="honors/cicc.jpg" height="115"><br><sub>中国国际大学生创新大赛</sub></td>
-</tr>
-<tr>
+<td align="center" width="25%"><img src="honors/kepu-national.jpg" height="115"><br><sub>全国青年科普创新·国家三等奖</sub></td>
 <td align="center" width="25%"><img src="honors/robot-n2.jpg" height="115"><br><sub>机器人及 AI 大赛·全国二等奖</sub></td>
 <td align="center" width="25%"><img src="honors/robot-p2.jpg" height="115"><br><sub>机器人及 AI 大赛·省二等奖</sub></td>
-<td align="center" width="25%"><img src="honors/ai-intl-p2.jpg" height="115"><br><sub>国际人工智能大赛·省二</sub></td>
-<td align="center" width="25%"><img src="honors/ai-6th.jpg" height="115"><br><sub>人工智能大赛</sub></td>
 </tr>
 <tr>
+<td align="center" width="25%"><img src="honors/ai-intl-p2.jpg" height="115"><br><sub>国际人工智能大赛·省二</sub></td>
+<td align="center" width="25%"><img src="honors/ai-6th.jpg" height="115"><br><sub>人工智能大赛</sub></td>
+<td align="center" width="25%"><img src="honors/challenge-p3.jpg" height="115"><br><sub>挑战杯·省级</sub></td>
+<td align="center" width="25%"><img src="honors/challenge-s1.jpg" height="115"><br><sub>挑战杯·校级一等奖</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><img src="honors/cicc.jpg" height="115"><br><sub>中国国际大学生创新大赛</sub></td>
 <td align="center" width="25%"><img src="honors/sc-smart-med.jpg" height="115"><br><sub>四川省智能医学创新设计</sub></td>
 <td align="center" width="25%"><img src="honors/sc-biomed.jpg" height="115"><br><sub>四川省生物医学工程创新设计</sub></td>
 <td align="center" width="25%"><img src="honors/smart-med-p3.jpg" height="115"><br><sub>智慧医疗创新大赛·省级</sub></td>
-<td align="center" width="25%"><img src="honors/intl-sw-design.jpg" height="115"><br><sub>国际软件设计应用大赛</sub></td>
 </tr>
 <tr>
+<td align="center" width="25%"><img src="honors/intl-sw-design.jpg" height="115"><br><sub>国际软件设计应用大赛</sub></td>
 <td align="center" width="25%"><img src="honors/sw-design-p3.jpg" height="115"><br><sub>全国软件设计创新大赛·省级</sub></td>
 <td align="center" width="25%"><img src="honors/lanqiaobei.jpg" height="115"><br><sub>蓝桥杯</sub></td>
 <td align="center" width="25%"><img src="honors/cc-design.jpg" height="115"><br><sub>计算机设计大赛</sub></td>
-<td align="center" width="25%"><img src="honors/kepu-n3.jpg" height="115"><br><sub>全国青年科普创新·国三</sub></td>
 </tr>
 <tr>
 <td align="center" width="25%"><img src="honors/ican.jpg" height="115"><br><sub>iCAN 创新创业大赛·优胜</sub></td>
@@ -170,8 +184,8 @@
 </tr>
 <tr>
 <td align="center" width="25%"><img src="honors/intl-youth-2.jpg" height="115"><br><sub>国际青年总决赛·国际二等奖</sub></td>
+<td align="center" width="25%"><img src="honors/cada-design.jpg" height="115"><br><sub>2025 CADA 概念设计·铜赏</sub></td>
 <td align="center" width="25%"><img src="honors/un-cert.jpg" height="115"><br><sub>联合国证书</sub></td>
-<td align="center" width="25%"><img src="honors/cada2025.jpg" height="115"><br><sub>2025 CADA</sub></td>
 <td align="center" width="25%"><img src="honors/fire-p1.jpg" height="115"><br><sub>全民消防科普·省一等奖</sub></td>
 </tr>
 </table>
@@ -180,10 +194,10 @@
 
 <table>
 <tr>
+<td align="center" width="25%"><img src="honors/ai-engineer-cert.jpg" height="115"><br><sub>人工智能应用工程师（高级）</sub></td>
 <td align="center" width="25%"><img src="honors/huawei-euler.jpg" height="115"><br><sub>华为云开发者认证 HCCDA</sub></td>
 <td align="center" width="25%"><img src="honors/huawei-appdev.jpg" height="115"><br><sub>华为应用开发者认证</sub></td>
 <td align="center" width="25%"><img src="honors/mandarin.jpg" height="115"><br><sub>普通话水平测试</sub></td>
-<td align="center" width="25%"></td>
 </tr>
 </table>
 
@@ -197,16 +211,16 @@
 <td align="center" width="25%"><img src="honors/aigc-2.jpg" height="110"><br><sub>AIGC 存证</sub></td>
 </tr>
 <tr>
-<td align="center" width="25%"><img src="honors/scholarship.jpg" height="110"><br><sub>励志奖学金</sub></td>
-<td align="center" width="25%"><img src="honors/project-final.jpg" height="110"><br><sub>大创项目结项</sub></td>
 <td align="center" width="25%"><img src="honors/school-1.jpg" height="110"><br><sub>校赛一等奖</sub></td>
 <td align="center" width="25%"><img src="honors/school-2.jpg" height="110"><br><sub>校赛二等奖</sub></td>
-</tr>
-<tr>
 <td align="center" width="25%"><img src="honors/kepu-vol.jpg" height="110"><br><sub>科普志愿</sub></td>
 <td align="center" width="25%"><img src="honors/volunteer.jpg" height="110"><br><sub>志愿服务</sub></td>
+</tr>
+<tr>
 <td align="center" width="25%"><img src="honors/marathon-full.jpg" height="110"><br><sub>成都双遗马拉松·全马完赛</sub></td>
 <td align="center" width="25%"><img src="honors/marathon-vol.jpg" height="110"><br><sub>马拉松志愿者</sub></td>
+<td align="center" width="25%"><img src="honors/sports-3.jpg" height="110"><br><sub>校运动会</sub></td>
+<td align="center" width="25%"><img src="honors/league.jpg" height="110"><br><sub>共青团荣誉</sub></td>
 </tr>
 </table>
 
