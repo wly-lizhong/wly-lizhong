@@ -74,6 +74,8 @@
 
 | 仓库 | 一句话 |
 |---|---|
+| [xinghuo-zhixue](https://github.com/wly-lizhong/xinghuo-zhixue) | 星火智学 · 考研机构 B2B AI 试卷批改 SaaS：拍照阅卷 → 逐题切片 OCR → 采分点评分 → 学情画像/推题（FastAPI+Celery+pgvector / Vue3，含产品与部署全套物料） |
+| [fse-delivery-challenge](https://github.com/wly-lizhong/fse-delivery-challenge) | ReqGate 需求治理平台：模糊需求 → 结构化 → 门禁放行的全栈系统（59 端点 / G1–G5 门禁引擎 / 47 测试 / Docker 上线） |
 | [ai-avatar-video-pipeline](https://github.com/wly-lizhong/ai-avatar-video-pipeline) | AI 数字人口播视频生产管线：声音克隆 TTS → 换口型/数字人驱动 → FFmpeg 去 AI 感（6 家云服务插拔编排） |
 | [green-charity-h5](https://github.com/wly-lizhong/green-charity-h5) | 手写 React 移动端 H5：无限无缝轮播 + 无限滚动/懒加载全原生实现（不套任何组件库） |
 | [heart-disease-decision-support](https://github.com/wly-lizhong/heart-disease-decision-support) | 知识图谱 + 检索 + LLM 的心脏病辅助决策应用（带界面截图） |
